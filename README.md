@@ -1,3 +1,3 @@
 # ToDoApp made in Django and React
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Demonstration Gif](https://github.com/JoseSuptitz/ToDoApp/blob/master/gif/GifDemonstration.gif)
